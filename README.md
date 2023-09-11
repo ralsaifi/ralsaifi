@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- Currently managing <a href="https://devmasters.com.au">devmasters.com.au</a>
+
+### Stats
+<div align="left">
+    <a href="https://github.com/fnsc"> 
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ralsaifi&show_icons=true&theme=radical" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnsc&layout=compact&theme=dark" />
+    </a>
+</div>
+
 <!--
 **ralsaifi/ralsaifi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
