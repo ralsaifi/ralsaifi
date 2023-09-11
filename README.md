@@ -5,8 +5,8 @@
 ### Stats
 <div align="left">
     <a href="https://github.com/fnsc"> 
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=ralsaifi&count_private=true&theme=tokyonight&showicons=true" />
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnsc&layout=compact&theme=dark" />
+        <img height="50%" src="https://github-readme-stats.vercel.app/api/?username=ralsaifi&count_private=true&theme=tokyonight&showicons=true" />
+        <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnsc&layout=compact&theme=dark" />
     </a>
 </div>
 
