@@ -1,6 +1,13 @@
 ### Hi there 👋
+- 🌐 Web Developer based in the heartbeat of Sydney.
+- 🔍 Forever curious, eternally motivated.
+- 💻 Crafting digital wonders one line of code at a time.
+- 🚀 Exploring the limitless horizon of the web and life in the Harbour City.
 
-- Currently managing <a href="https://devmasters.com.au" target="_blank">devmasters.com.au</a>
+
+Currently managing <a href="https://devmasters.com.au" target="_blank">devmasters.com.au</a>
+
+#WebDevDownUnder 🦘🌆
 
 ### Stats
 <div align="left">
