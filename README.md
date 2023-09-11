@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- Currently managing <a href="https://devmasters.com.au">devmasters.com.au</a>
+- Currently managing <a href="https://devmasters.com.au" target="_blank">devmasters.com.au</a>
 
 ### Stats
 <div align="left">
-    <a href="https://github.com/fnsc"> 
+    <a href="https://github.com/ralsaifi"> 
         <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=ralsaifi&count_private=true&theme=tokyonight&showicons=true" />
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnsc&layout=compact&theme=dark" />
     </a>
